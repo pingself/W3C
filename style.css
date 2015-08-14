@@ -1,7 +1,7 @@
 /*  
-Theme Name: 盗墓笔记全集在线阅读
+Theme Name: 盗墓笔记，持续更新中。。。
 Theme URI: http://www.daomubiji.org
-Description: 盗墓笔记，南派三叔著，微信3100425176
+Description: 盗墓笔记小说专用版，微信：3100425176
 Author URI: http://www.daomubiji.org
 Version: 2.2.1
 */
@@ -10,7 +10,7 @@ body {
     margin: 0px auto;
     padding: 0px;
     text-align: center;
-    font-family: "寰蒋闆呴粦", "瀹嬩綋";
+    font-family: "微软雅黑", "宋体";
     /* font-family: Verdana, Arial, Helvetica, sans-serif; */
     font-size: 12px;
     color: #333333;
@@ -272,7 +272,7 @@ h1 {
     /* font-weight: bold; */
     font-size: 20px;
     text-align: left;
-    /* font-family: "妤蜂綋_GB2312", "浠垮畫_GB2312", "瀹嬩綋"; */
+    /* font-family: "楷体_GB2312", "仿宋_GB2312", "宋体"; */
     line-height: 180%
     /* line-height: 150% */
 }
